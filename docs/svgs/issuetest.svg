@@ -1,0 +1,9 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" viewBox="0 0 1500 831">
+	<image xlink:href="https://i.imgur.com/9gBTnhq.png" preserveAspectRatio="xMidYMin slice" clip-path="url(#clipPath)" width="1500" height="831"></image>
+
+	<defs>
+		<clipPath id="clipPath">
+			<path d="M 1500 0 H 0 v 622.666 l 46.063 28.096 c 74.452 46.98 149.692 82.843 224.65 109.703 114.415 41.001 228.171 61.026 337.452 67.597 64.451 3.883 127.057 3.112 186.835 -0.754 141.409 -9.143 267-35.598 363.75-58.7 20.94-4.999 40.52-9.841 58.62-14.316 19.36-4.785 37.02-9.151 52.83-12.843 55.96-13.087 110.16-23.313 159.8-26.914 24.56-1.782 48.01-1.942 70 -0.022 V 0 Z"></path>
+		</clipPath>
+	</defs>
+</svg>
